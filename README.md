@@ -8,7 +8,7 @@
 👨🏻‍💻 Em processo...
 
 
-👨🏻‍🎓 Cursandoo Sistemas de informaçao 
+👨🏻‍🎓 Cursa ndo Sistemas de informaçao 
 
 🚀 Alguns projetos em mente
 </div>
