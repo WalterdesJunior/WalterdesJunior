@@ -8,7 +8,7 @@
 👨🏻‍💻 Em processo...
 
 
-👨🏻‍🎓 Estudando Sistemas de informaçao 
+👨🏻‍🎓 Estudando Engenharia de Software 
 
 🚀 Alguns projetos em mente
 </div>
