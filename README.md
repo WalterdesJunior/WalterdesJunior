@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <h2> Walterdes Junior <h2>
+    <br><h2> Walterdes Junior <h2>
   </a>
 </p>
 <div align="center">
