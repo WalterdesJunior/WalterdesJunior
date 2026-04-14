@@ -1,13 +1,13 @@
-<h1 align="center">👋 Olá, eu sou Walterdes Júnior</h1>
+<h1 align="center"> Olá, eu sou Walterdes Júnior</h1>
 
-<h3 align="center">💻 Estudante de Engenharia de Software</h3>
+<h3 align="center"> Estudante de Engenharia de Software</h3>
 
 <div align="center">
   
-🚀 5º período de Engenharia de Software  
-💡 Interesse em desenvolvimento e soluções tecnológicas  
-📚 Aprendizado contínuo e evolução constante  
-🎯 Em busca de estágio na área de tecnologia  
+ 5º período de Engenharia de Software  
+ Interesse em desenvolvimento e soluções tecnológicas  
+ Aprendizado contínuo e evolução constante  
+  
 
 </div>
 
